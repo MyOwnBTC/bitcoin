@@ -1,0 +1,68 @@
+PERSONAL NON-COMMERCIAL USE LICENSE FOR COMPILED SOFTWARE
+Version 1.0
+
+Copyright (c) 2025 MyOwnBTC.com
+
+By downloading, installing, or using the compiled software,
+you agree to the terms of this license.
+
+This license governs the use of compiled binary versions of the
+experimental software.
+
+1. GRANT OF LICENSE
+
+   1.1 Personal Non-Commercial Use Permitted
+       Individuals are granted a limited, non-exclusive, non-transferable
+       license to:
+       - Download and install the compiled software
+       - Run the software for personal learning and experimentation
+       - Use the software with TEST networks only (no real cryptocurrency)
+       - Share experiences and findings with the community
+
+   1.2 Definition of Non-Commercial Use
+       Non-commercial use means:
+       - Personal education and skill development
+       - Academic research (not funded by commercial entities)
+       - Hobby projects with no revenue generation
+       - Contributing to open knowledge without monetary gain
+
+2. RESTRICTIONS
+
+   2.1 Prohibited Uses:
+       - Any commercial use whatsoever
+       - Use by or on behalf of any business entity
+       - Managing real cryptocurrency or assets with value
+       - Providing commercial services to others using this software
+       - Redistribution of the binary files
+       - Reverse engineering or decompilation
+       - Use on Bitcoin mainnet or any production network
+
+   2.2 Single User Limitation
+       This license is granted to individual natural persons only.
+       Organizations, companies, and other entities must obtain a
+       commercial license.
+
+3. EXPERIMENTAL SOFTWARE NOTICE
+
+   This software is EXPERIMENTAL and has NOT been tested on Bitcoin mainnet.
+   It may contain critical bugs and should only be used in isolated test
+   environments with no real value at risk.
+
+4. NO WARRANTY AND LIABILITY LIMITATION
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
+
+5. TERMINATION
+
+   This license automatically terminates if you:
+   - Use the software commercially
+   - Violate any restriction in this license
+   - Attempt to use with real cryptocurrency
+   - Share or redistribute the binary files
+

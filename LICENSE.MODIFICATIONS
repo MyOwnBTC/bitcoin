@@ -1,0 +1,50 @@
+SOURCE CODE VIEW-ONLY LICENSE
+Version 1.0
+
+Copyright (c) 2025 MyOwnBTC.com
+
+This license applies only to the modifications and additions
+made to Bitcoin Core by MyOwnBTC.com. The unmodified portions of Bitcoin
+Core remain licensed under the MIT License.
+
+This license governs the source code modifications and additions made to 
+Bitcoin Core by MyOwnBTC.com.
+
+1. SOURCE CODE ACCESS RIGHTS
+
+   1.1 Permitted Uses of Source Code:
+       - Viewing and studying for educational purposes
+       - Security analysis and audit
+       - Learning concepts and algorithms
+
+   1.2 Prohibited Uses of Source Code:
+       - Copying source code into other projects
+       - Compiling from source except under the conditions in Section 1.3
+       - Creating derivative works
+       - Distributing modified or unmodified source code
+       - Commercial use of source code
+
+   1.3 Compiling from Source
+       Compiling from source is permitted only if:
+       (a) the source code is used exactly as provided, with no modifications;
+       (b) the compilation and use fully comply with LICENSE.BINARY.
+       The authors disclaim all responsibility and liability for any compiled
+       binaries, whether produced by others or by the authors themselves.
+
+2. RELATIONSHIP TO BINARY DISTRIBUTION
+
+   While the source code is view-only, compiled binaries are separately
+   licensed for personal non-commercial use. See LICENSE.BINARY for terms
+   governing the use of compiled software.
+
+3. INTELLECTUAL PROPERTY NOTICE
+
+   The algorithms, methods, and implementations in these modifications are
+   proprietary. Viewing the source code does not grant any patent rights
+   or permission to implement similar functionality.
+
+4. NO WARRANTY
+
+   The source code is provided "AS IS" for educational viewing only,
+   without any warranty whatsoever.
+
