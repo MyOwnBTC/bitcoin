@@ -21,7 +21,7 @@ NOT suitable for managing real cryptocurrency
 Below is the original README from Bitcoin Core, it's kept here for your reference.
 
 ==============================================================================
-
+ 
 Bitcoin Core integration/staging tree
 =====================================
 
